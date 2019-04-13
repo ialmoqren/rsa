@@ -62,5 +62,5 @@ So, assuming you already know how to run java programs, running this project is 
 
 ##### Clone the repository
 ```shell
-git clone https://github.com/ialmoqren/confirm-location
+git clone https://github.com/ialmoqren/rsa
 ```
